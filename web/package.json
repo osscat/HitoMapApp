@@ -13,7 +13,7 @@
     "cytoscape-cola": "^2.3.0",
     "cytosnap": "^3.1.0",
     "express": "^4.17.1",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "neo4j-driver": "^1.7.5",
     "neovis.js": "^1.1.0",
     "vue": "^2.6.10",
